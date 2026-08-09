@@ -5,7 +5,7 @@ subtitle: Learn more about me!
 ---
 
 👋 Hello there! My name is **Kacper Dudzinski**. I'm a cross-platform **C++ game
-developer**, working at **Feral Interactive**, specialising in porting games
+developer**, currently working at **Feral Interactive**, specialising in porting games
 from Windows to mobile. I've worked on bringing games such as *"Tomb Raider"*
 and *"Lara Croft and the Guardian of Light"* to **Android and iOS**, as well as
 serving as the lead developer on a currently unannounced project.
