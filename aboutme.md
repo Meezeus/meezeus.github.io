@@ -10,9 +10,9 @@ from Windows to mobile. I've worked on bringing games such as *"Tomb Raider"*
 and *"Lara Croft and the Guardian of Light"* to **Android and iOS**, as well as
 serving as the lead developer on a currently unannounced project.
 
-💻 My work involves everything from integrating new UI and resolving
-platform-specific bugs to improving shared libraries and implementing new
-features. I pride myself on the quality of my work and I am always eager to
+💻 My work involves everything from **integrating new UI** and **resolving
+platform-specific bugs** to **improving shared libraries** and **implementing new
+features**. I pride myself on the quality of my work and I am always eager to
 learn more and continuously improve.
 
 🎓 I attended **King's College London**, where I studied **MSci (Hons) Computer
