@@ -4,10 +4,16 @@ title: About Me
 subtitle: Learn more about me!
 ---
 
-👋 Hello there! My name is **Kacper Dudzinski** and I'm a **programmer** who's
-passionate about **game dev** and in particular **video game AI**. I'm a quick
-learner, an organised worker and a resilient individual. I pride myself on the
-quality of my work and am always eager to learn more and become better.
+👋 Hello there! My name is **Kacper Dudzinski**. I'm a cross-platform **C++ game
+developer**, working at **Feral Interactive**, specialising in porting games
+from Windows to mobile. I've worked on bringing games such as *"Tomb Raider"*
+and *"Lara Croft and the Guardian of Light"* to **Android and iOS**, as well as
+serving as the lead developer on a currently unannounced project.
+
+💻 My work involves everything from integrating new UI and resolving
+platform-specific bugs to improving shared libraries and implementing new
+features. I pride myself on the quality of my work and I am always eager to
+learn more and continuously improve.
 
 🎓 I attended **King's College London**, where I studied **MSci (Hons) Computer
 Science**, specialising in **Artificial Intelligence**. I graduated with
@@ -18,9 +24,8 @@ performance by a third year MSci student in the Department of Informatics) and
 the **British Computing Society Prize** (best performance in any year of the
 BSc/MSci Computer Science) in the 2021-22 academic session.
 
-❤ Aside from programming and video games, some of my other interests include
-Karate (which I have been practising for over 17 years, both as a student and as
-an instructor), board games/TTRPGs, legends/folklore/mythology, reading and hiking.
+❤ Outside of programming and video games, some of my other interests include
+board games and TTRPGs, legends/folklore/mythology and hiking.
 
 ## Contact
 
